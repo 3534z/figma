@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 20px;
+    align-items: center;
+}
+
+.left {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.middle {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+
+}
+
+.middle li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.right button {
+    background-color: #485C11;
+    color: white;
+    width: 127px;
+    height: 48px;
+    border-radius: 25px ;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+}
+
