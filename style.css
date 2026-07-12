@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-between;
     margin: 15px 20px;
-    align-items: center;
+    align-items: stretch;
 }
 
 .left {
@@ -80,3 +80,29 @@
    
 }
 
+.partners {
+    display: flex;
+    justify-content: center;
+}
+
+.partners-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 1200px;
+    height: 235px;
+    
+}
+
+.partners-title {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6f6f6f;
+}
+
+.partners-logos {
+    display: flex;
+    justify-content: space-between;
+}
