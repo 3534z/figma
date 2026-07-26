@@ -146,19 +146,21 @@
 
 .services-main-text {
     font-size: 12px;
-    font-family: Regular;
+    font-family: 'Roboto Mono', monospace;
     color:#485C11;
 }
 
 .service-header {
      font-size: 60px;
-    font-family: Regular;
+    font-family:  'Crimson Text';
     color:#000000;
+     font-weight: 400;
 
 }
 
 .services-main-text2 {
     font-size: 15px;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Crimson Text';
     color:#6F6F6F;
+   
 }
