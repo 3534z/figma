@@ -164,3 +164,30 @@
     color:#6F6F6F;
    
 }
+
+.description-of-services {
+    display: flex;
+    gap: 40px;
+    margin-top: 90px;
+}
+
+.description-column-text {
+    width: 265px;
+    border-top: 1px solid #E9E9E9;
+}
+
+.img {
+    margin-top: 50px;
+}
+
+.title {
+    line-height: 100%;
+    font-family: 'Crimson Text';
+    font-weight: 400;
+}
+
+.description {
+    line-height: 140%;
+    font-family: 'DM Sans';
+    color: #6F6F6F;
+}
